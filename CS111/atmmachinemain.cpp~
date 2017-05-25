@@ -1,18 +1,27 @@
-/*
-  Purpose: To create an atm machine class that has a menu display that gives the user the option to check their balance, withdraw money, deposit money, or leave.
-  
-  User Information: The user enters their id number, which in this case is irrelevant, and then a menu comes up with the options to either check balance, deposit money, withdraw money, or leave the atm program. To check balance, input 1. To deposit money, input 2, and then when prompted, enter the amount to deposit. To withdraw, input 3, and when prompted, enter the amount of money to withdraw. To exit, input 4.   
-*/
+
+/***************************
+Purpose: To create an atm machine class that has a menu display that gives the user the option to check their balance, withdraw money, deposit money, or leave.
+
+Implemented By: Toby Curtis
+
+Date: 12/4/09
+
+User Information: The user enters their id number, which in this case is irrelevant, and then a menu comes up with the options to either check balance, deposit money, withdraw money, or leave the atm program. To check balance, input 1. To deposit money, input 2, and then when prompted, enter the amount to deposit. To withdraw, input 3, and when prompted, enter the amount of money to withdraw. To exit, input 4. 
+
+********************************/
+
 
 #include <iostream>
 #include "atmmachine.h"
 using namespace std;
 
+
 //prototype
 void menu(atmMachine& atmObject);
 
 
-int main(){
+int main()
+{
   //declare the no arg constructor, and an atm object which initializes an account of id 111.
   atmMachine atm1;
   atmMachine atm2(111);
