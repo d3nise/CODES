@@ -2,33 +2,34 @@
 #include "atmmachine.h"
 using namespace std;
 
-// Construct a default atmMachine object.
+// construct a default atmMachine object
 atmMachine::atmMachine(){
   id = 0;
   balance = 0;
 }
 
-// Construct a rectangle object.
+//Construct a rectangle object
 atmMachine::atmMachine(int newId){
   id = newId;
   balance = 100;
 }
 
-// Function to handle deposits.
+//function to handle deposits
 double atmMachine::deposit(double newBalance){
   if (newBalance > 0)
     balance = balance + newBalance;
   return balance;
 }
 
-// Function to handle withdrawals.
-double atmMachine::withdraw(double newBalance){
+//function to handle withdrawals.
+double atmMachine::withdraw(double newBalance)
+{
   if (newBalance > 0)
     balance = balance - newBalance;
   return balance;
 }
 
-// Function to return the balance since its a private variable.
+//function to return the balance since its a private variable.
 double atmMachine::getBalance(){
   return balance;
 }
