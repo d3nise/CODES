@@ -5,3 +5,7 @@ These files are intended for educational use ONLY. I DO NOT condone the use of t
 If you have any suggestions, I am open to any comments that may improve anything in the code.
 
 # CODES for 111--
+
+COMPILING ON A MAC---
+g++ -Wall -Wextra -Wpedantic -o  file.C nameFile
+./nameFile
