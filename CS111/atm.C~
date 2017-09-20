@@ -1,0 +1,13 @@
+#include <iostream>
+#include "atmmachine.cpp"
+
+int main(){
+
+  cout <<"Meow";
+  
+  atmMachine atm;
+  
+
+
+  return 0;
+}
