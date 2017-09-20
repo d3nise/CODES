@@ -6,7 +6,11 @@ int main(){
   cout <<"Meow\n";
   
   atmMachine atm;
+  atm.getBalance();
+
+  cout << "";
   
+
 
 
   return 0;
