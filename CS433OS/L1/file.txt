@@ -1,0 +1,14 @@
+/*
+//open(), close(), read() and write() 
+  LAB1 open read close file 
+  DENISE THUY VY NGUYEN 
+  -RUN A STRACE AFTER PRGRAM IS WRITTEN 
+  f stat check size of a file
+  char buf[256] buffer
+  int read(int fd,void&buf[0],size)
+  argv is an array of strings that gives up all the arguments 
+  argv[0]=filecpy;
+  argv[1]=file1;
+  gcc -wall filecpy.c (source file) filecpy(excutable)
+*/
+
