@@ -10,5 +10,7 @@
   argv[0]=filecpy;
   argv[1]=file1;
   gcc -wall filecpy.c (source file) filecpy(excutable)
+  strace ./fileCopy file.txt. <copied file∑>
+
 */
 
