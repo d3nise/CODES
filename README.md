@@ -6,7 +6,7 @@ These files are intended for educational use ONLY. I DO NOT condone the use of t
 
 ##COMPILED WITH MAC THROUGH SCHOOL SERVER---
 #### C++
-• Compile: **`g++ -o filename.C filExecutableName`***
+• Compile: **`g++ -o filename.C filExecutableName`**
 • Compling**`g++ -o  file.C nameFile`**
 ##COMPILED WITH MAC THROUGH LOCAL TERMINAL---
 #### C++
