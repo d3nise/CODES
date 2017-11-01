@@ -7,7 +7,8 @@
 **` `**
 2. Running program: **`./a.out or ./filExecutableName`**
 
-##COMPILED WITH MAC THROUGH LOCAL TERMINAL
+#### COMPILED WITH MAC THROUGH LOCAL TERMINAL
+---
 #### C++
 1.  Compile: **`g++ -Wall -Wextra -Wpedantic -o  file.C nameFile`**
 **` `**
