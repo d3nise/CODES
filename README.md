@@ -1,9 +1,16 @@
----
-#### Hi there. 
-This git contains all the homework files for California State University, San Marcos' Computer Science department.
-These files are intended for educational use ONLY. I DO NOT condone the use of these files for cheating/plagerizing of these files or any of their supportive material. These files are purely for students who want to learn or are stuggling in the course to compare their code with mine.If you have any suggestions, I am open to any comments that may improve anything in the code.
+![alt text][logo]
+
+[logo]: https://s3-us-west-2.amazonaws.com/cs-441-avtory/images/AVtory_logo_Cropped.png "AVtory Logo"
+
+## Overview
+Group Project for CS 441 - Software Engineering at Cal State San Marcos
+
 ---
 
+## Project Description
+This git contains all the homework files for California State University, San Marcos' Computer Science department.
+These files are intended for educational use ONLY. I DO NOT condone the use of these files for cheating plagerizing of these files or any of their supportive material. These files are purely for students who want to learn or are stuggling in the course to compare their code with mine.If you have any suggestions, I am open to any comments that may improve anything in the code.
+---
 ##COMPILED WITH MAC THROUGH SCHOOL SERVER---
 #### C++
 • Compile: **`g++ -o filename.C filExecutableName`**
