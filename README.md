@@ -1,4 +1,3 @@
-![Alt text][logo]
 [logo]:https://yt3.ggpht.com/-_MwB_oCGbCQ/AAAAAAAAAAI/AAAAAAAAAAA/WVNbG2s2ZmM/s288-c-k-no-mo-rj-c0xffffff/photo.jpg "meow =^.,.^="
 
 ##Hi there. 
