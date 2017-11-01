@@ -1,12 +1,12 @@
 
 ##COMPILED WITH MAC THROUGH SCHOOL SERVER
 #### C++
-Compile: **`g++ -o filename.C filExecutableName`**
+1. Compile: **`g++ -o filename.C filExecutableName`**
 **` `**
-Running program: **`g++ -o  file.C nameFile`**
+2. Running program: **`g++ -o  file.C nameFile`**
 
 ##COMPILED WITH MAC THROUGH LOCAL TERMINAL
 #### C++
-• Compile: **`g++ -Wall -Wextra -Wpedantic -o  file.C nameFile`**
+1.  Compile: **`g++ -Wall -Wextra -Wpedantic -o  file.C nameFile`**
 **` `**
-• Running program: **`./nameFile`** 
+2. Running program: **`./nameFile`** 
