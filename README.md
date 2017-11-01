@@ -1,5 +1,3 @@
-[logo]:https://yt3.ggpht.com/-_MwB_oCGbCQ/AAAAAAAAAAI/AAAAAAAAAAA/WVNbG2s2ZmM/s288-c-k-no-mo-rj-c0xffffff/photo.jpg "meow =^.,.^="
-
 ##Hi there. 
 This git contains all the homework files for California State University, San Marcos' Computer Science department.
 These files are intended for educational use ONLY. I DO NOT condone the use of these files for cheating/plagerizing of these files or any of their supportive material. These files are purely for students who want to learn or are stuggling in the course to compare their code with mine.
