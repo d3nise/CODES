@@ -4,9 +4,11 @@
 ---
 #### C++
 1. Compile: **`g++ -o filename.C filExecutableName`**
-**` `**
 2. Running program: **`./a.out or ./filExecutableName`**
 
+#### c
+1. Compile: **`gcc filename.C -o filExecutableName`**
+2. Running program: **`./a.out or ./filExecutableName`**
 #### COMPILED WITH MAC THROUGH LOCAL TERMINAL
 ---
 #### C++
