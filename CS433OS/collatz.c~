@@ -6,15 +6,9 @@
 #include <errno.h>  //std error 
 #include <stdlib.h>  //Defines ‎Atoi() · ‎Malloc() · ‎Calloc() · ‎Qsort()
 #include <sys/wait.h> //Define waitpid(): 
-#include <stdio.h> //Std input/output header
+#include <stdio.h> //Defines input/output functions
 
-int main(int argc, char*argv[]){
-  char buffer[256]; //Declaring buffer to read files
-  
-  if(argc!=3){
-    printf("ERROR: Opening files to read! \n"); //print error
-    //    puts(sterror(errrno));
-  }
+int main(){
 
 
 }
