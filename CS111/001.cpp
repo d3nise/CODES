@@ -3,7 +3,6 @@
   1/29/17
   PROGRAM: This program will take in user input, print,
   then will print again with user input to multiply. 
-
 ======================================================*/
 #include <iostream>
 using namespace std;
