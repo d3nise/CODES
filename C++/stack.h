@@ -18,14 +18,17 @@ class stack{
 	private: 
 		el_t el[MAX];		//element is an array with slots MAX -1
 		int topElem;		//The index to the top element
+		void FuctionErr(string);
 	//Public prototypes datamembers
 	public:
 		stack();			//Constructor creates an object and initlize it
 		~stack();			//Destructor to destroy and object
+		void display();
 		bool isEmpty();
 		bool isFull();
-};
+		void push(el_t);	//Push an element 
 
+};
 #endif
 
 

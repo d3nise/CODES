@@ -1,0 +1,22 @@
+#include <iostream>
+#include "stack.h"
+using namespace std;
+
+stack::stack(){
+    topElem = -1;
+    cout <<"Initilize stack...\n";
+}
+
+stack::~stack(){
+	cout <<"Destructor...\n";
+    //NO ACTION
+}
+
+bool stack::isEmpty(){
+	if(topElem == -1)
+		cout<<"Stack is empty\n";
+		return true;
+	else 
+		return false;
+}
+
